@@ -1,0 +1,33 @@
+_repo: Gettysburg-Address_4
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - Lincoln, Abe
+    - United States President (1861-1865)
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+description: The Gettysburg address / by C.C. Walton -- Lincoln speaks at Gettysburg
+  / by R.G. Newman.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '1973-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Soldiers'' National Cemetery (Gettysburg, Pa.)'
+- !lcsh 'Consecration of cemeteries -- Pennsylvania -- Gettysburg'
+- !lcsh 'Lincoln, Abraham, 1809-1865. Gettysburg address'
+- GITenberg
+title: "Lincoln's Gettysburg Address\r\nGiven November 19, 1863 on the battlefield\
+  \ near Gettysburg, Pennsylvania, USA"
+url: http://www.gutenberg.org/ebooks/4
